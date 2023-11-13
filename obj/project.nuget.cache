@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZJvq0+d0jYwkVJhHRyW7oPAxvKh/PHmzUTT2tU0psTHSi+L0nqi4uQtTvFXBKIvZx5SmB2NlrMovEzHk8cYQAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spand\\source\\repos\\CodingChallenge\\BackendCodingChallenge\\BackendCodingChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spand\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
